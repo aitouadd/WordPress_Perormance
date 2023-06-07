@@ -1,1 +1,34 @@
 
+15 Ways to Speed Up WordPress Performance : https://www.codeinwp.com/blog/ways-to-speed-up-wordpress/#gref
+   
+   
+              1.Choose a better web hosting provider
+      
+              2.Use a lightweight WordPress theme / framework
+       
+              3.Minify JS and CSS files
+           
+              4.Use a caching plugin
+              
+              5.Check your PHP
+              
+              6.Reduce image sizes with a plugin
+              
+              7.Upload images as WebP instead of JPEG or PNG
+              
+              8.Avoid uploading videos directly to WordPress
+              
+              9.Use a content delivery network (CDN)
+              
+              10.Enable GZIP compression
+              
+              11.Cleanup WordPress database
+              
+              12.Deactivate or uninstall plugins
+              
+              13.Keep external scripts to a minimum
+              
+              14.Disable pingbacks and trackbacks
+              
+              15.Use premium DNS
+              
